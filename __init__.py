@@ -1,0 +1,1 @@
+"""PlantPulse AI core package."""
